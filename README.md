@@ -1,0 +1,1 @@
+Nothing interesting, just playing with Scalaz, monoids and property based testing.
