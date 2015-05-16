@@ -13,6 +13,4 @@ dist
 /RUNNING_PID
 /.settings
 .DS_Store
-Main.scala
-src/test/resources/token.txt
 /projectFilesBackup
